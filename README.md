@@ -7,6 +7,7 @@ Simple notes and summaries I make while learning cybersecurity.
 - SOC operations  
 - Ethical hacking tools  
 - Linux commands  
-- CyberOps Associate notes  
+- CyberOps Associate notes
+- SIEM Basics
 
 More updates coming soon!
